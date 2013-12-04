@@ -1,6 +1,6 @@
 Freetype
 ====
-Provides support for Freetype 2.5.1 on OSX
+Provides support for Freetype 2.5.1 on OSX and iOS
 
 **Build instructions for OSX:**
 
