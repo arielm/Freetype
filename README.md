@@ -1,8 +1,11 @@
 Freetype
-====
-Provides support for Freetype 2.5.1 on OSX and iOS
+========
 
-**Build instructions for OSX:**
+[Freetype](http://www.freetype.org) 2.5.1, prebuilt for OSX and iOS  
+
+TODO: switch to version 2.5.2
+
+**How it was built for OSX**
 
 `cd freetype-2.5.1`  
 
@@ -18,7 +21,7 @@ Provides support for Freetype 2.5.1 on OSX and iOS
 
 `lipo -c libfreetype-i386.a libfreetype-x86_64.a -o libfreetype.a`  
 
-**Build instructions for iOS:**
+**How it was built for iOS**
 
 `cd freetype-2.5.1`  
 
